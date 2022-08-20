@@ -1,0 +1,72 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #292c3b;
+}
+html{
+    height: 100%;
+    width: 100%;
+}
+.bodymain{
+    height: auto;
+    width: auto;
+    background-color: black;
+    
+}
+.welcon{
+    margin-top: 0.5%;
+    border-left: solid #292c3b ;
+    border-right: solid #292c3b ;
+    border-bottom: solid #252735 ;
+    border-radius: 50px;
+
+}
+div.firstcontainer{
+    padding: 0;
+    text-align: center;
+
+}
+img.divine.ga{
+    border-radius: 50px;
+}
+.homebutton{
+    margin-top: 1%;
+    border-left:  solid  #292c3b;
+    border-bottom:  solid #292c3b;
+    border-radius: 50px;
+    text-align: center;
+    height: 80%;
+}
+.homediv{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 40%;
+    width: 20%;
+    height: 50px;
+    text-align: center;
+    line-height: 2;
+    position: relative;
+}
+.homemain{
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+.info{
+    color: aliceblue;
+}
+
+img.imagehome{
+    border: solid #292c3b;
+    border-radius: 50px; 
+       
+}
+img.welcompng{
+    border-left: solid #292c3b;
+    border-bottom: solid #292c3b;
+    border-radius: 50px;
+}
